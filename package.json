@@ -1,6 +1,6 @@
 {
-  "name": "@djungst/react-flash",
-  "version": "1.0.0",
+  "name": "@djungst/react-flash44",
+  "version": "1.0.1",
   "description": "A flash component",
   "main": "./dist/index.js",
   "author": "djungst",
